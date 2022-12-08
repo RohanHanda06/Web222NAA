@@ -152,7 +152,7 @@
      align-items: center;
      justify-content: center;
      padding-top: 7rem;
-     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(177, 64, 243, 0.3)), url(Images/p1.jpg);
+     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(177, 64, 243, 0.3)), url(p1.jpg);
      height: 100%;
      width: 100%;
      background-position: center;
